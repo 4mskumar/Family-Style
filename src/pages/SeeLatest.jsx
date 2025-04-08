@@ -17,7 +17,6 @@ const SeeLatest = () => {
     const t1 = gsap.timeline({
         scrollTrigger:{
             start: "top 40%",
-            markers: true,
             trigger: latest.current,
         }
     })
