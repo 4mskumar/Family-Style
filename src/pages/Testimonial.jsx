@@ -15,7 +15,6 @@ const Testimonial = () => {
       scrollTrigger: {
         trigger: word.current,
         start: "top 70%",
-        markers: true,
       },
     });
 
