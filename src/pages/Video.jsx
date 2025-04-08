@@ -15,7 +15,6 @@ const Video = () => {
       trigger: elem,
       start: 'top 40%',
       end: 'top 0',
-      markers: true,
     }})
   }, [])
 
