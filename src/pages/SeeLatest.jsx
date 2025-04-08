@@ -32,7 +32,7 @@ const SeeLatest = () => {
         scale: 0.98,
         duration: 1,
         scrollTrigger: {
-          markers: true,
+
           trigger: page.current,
           start: "top 5%",
           end: "top -10%",
