@@ -17,7 +17,6 @@ const Index = () => {
       scrollTrigger: {
         trigger: elem,
         start: "top 20%",
-        markers: true,
       },
     });
 
